@@ -25,7 +25,6 @@ def canSum(targetSum, numbers, memo={}):
     """
     canSum recursive approach
     """
-    print(numbers, memo)
     if targetSum in memo: return memo[targetSum]
     if targetSum == 0: return True
     if targetSum < 0: return False
@@ -40,7 +39,7 @@ def canSum(targetSum, numbers, memo={}):
     
     
 
-print(canSum(5, [1,2,3,4]))
-# print(canSum(7, [2,4]))
-# print(canSum(5, [5]))
-# print(canSum(300, [7, 14]))
+print(canSum(5, [1,2,3,4], {}))
+print(canSum(7, [2,4], {}))
+print(canSum(5, [5], {}))
+print(canSum(300, [7, 14], {}))
