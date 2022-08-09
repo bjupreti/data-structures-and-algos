@@ -35,13 +35,15 @@ Repository to try out various data structures and algorithms
 
 [Tree (General Tree) - Data Structures & Algorithms Tutorials In Python #9](!https://youtu.be/4r_XR9fUPhQ?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 
-[Binary Tree Part 1 | BST | Binary Search Tree - Data Structures & Algorithms Tutorials In Python #10](!https://youtu.be/lFq5mYUWEBk?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
-
-[FreeCodeCamp - Binary Tree Algorithms for Technical Interviews - Full Course](!https://youtu.be/fAAZixBzIAI)
-
 ### Binary Tree Search
 
+[Binary Tree Part 1 | BST | Binary Search Tree - Data Structures & Algorithms Tutorials In Python #10](!https://youtu.be/lFq5mYUWEBk?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+
+[Binary Tree Part 2 | BST | Binary Search Tree - Data Structures & Algorithms Tutorials In Python #11](!https://youtu.be/JnrbMQyGLiU?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+
 ### Binary Tree
+
+[FreeCodeCamp - Binary Tree Algorithms for Technical Interviews - Full Course](!https://youtu.be/fAAZixBzIAI)
 
 ## Graph
 
@@ -63,6 +65,8 @@ Repository to try out various data structures and algorithms
 
 [FreeCodeCamp - Object Oriented Programming with Python - Full Course for Beginners
 ](!https://youtu.be/Ej_02ICOIgs)
+
+[Python Object-oriented Programming](!https://www.pythontutorial.net/python-oop/python-object-oriented-programming/)
 
 ## Data Structures For Python Developers (w/ Flask) - Course
 
