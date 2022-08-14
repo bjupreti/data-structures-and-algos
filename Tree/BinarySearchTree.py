@@ -90,6 +90,23 @@ class BinarySearchTree:
         left_sum = self.left.calculate_sum() if self.left else 0
         right_sum = self.right.calculate_sum() if self.right else 0
         return self.data + left_sum + right_sum
+    
+    # def delete(self, val):
+    #     if val < self.data:
+    #         if self.left:
+    #             self.delete(self.left)
+    #     elif val > self.data:
+    #         if self.right:
+    #             self.delete(self.right)
+    #     else:
+    #         if self.left is None and self.right is None:
+    #             return None
+    #         if self.left is None:
+    #             return self.right
+    #         if self.right is None:
+    #             return self.left
+            
+    #         self.data = self.right
             
 def build_tree(elements):
     print("Building tree with these elements:", elements)
@@ -132,11 +149,4 @@ if __name__ == "__main__":
     print("Max Number: ", numbers_tree.find_max())
     print("Min Number: ", numbers_tree.find_min())
     print("Sum: ", numbers_tree.calculate_sum())
-    
-
-
-
-
-        
-            
-            
+    # print("After deleting 20:", numbers_tree.delete(20))
