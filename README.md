@@ -47,6 +47,8 @@ Repository to try out various data structures and algorithms
 
 ## Graph
 
+[Graph Algorithms for Technical Interviews - Full Course](!https://youtu.be/tWVWeAqZ0WU)
+
 ## Sorting
 
 1. Bubble
